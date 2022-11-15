@@ -11,4 +11,6 @@ export function isIncreasingNumber(n) {
   }
 
   return true;
+
+// comment gi do
 }
