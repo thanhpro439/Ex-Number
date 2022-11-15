@@ -12,5 +12,5 @@ export function isIncreasingNumber(n) {
 
   return true;
 
-  // commment 2
+  // comment gi do
 }
